@@ -1,0 +1,8 @@
+1) SELECT COUNT(Name) FROM city WHERE countryCode ="USA";
+2) SELECT population, lifeexpectancy FROM country WHERE name = 'argentina';
+3)SELECT name from country WHERE lifeexpectancy is not null order by lifeexpectancy desc limit 1;
+4)
+5)
+6)SELECT name from city WHERE name like "F%" LIMIT 25;
+7)
+8)
